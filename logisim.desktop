@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Categories=Education;Emulator;
+Encoding=UTF-8
+Name=Logisim
+Comment=Digital Design - Logic Simulator 
+Exec=java -jar <location of the installed Logisim file>/logisim-XX.jar
+Icon=<Location of the Installed Repository OR placed icon>logisim-icon-512x512.png
+Terminal=False
